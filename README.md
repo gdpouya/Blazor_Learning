@@ -1,3 +1,5 @@
+its my first try to use blazor base on web development with blazor by jimmy engstrom book
+
 Absolutely, Blazor is an exciting framework for building interactive web applications using C# instead of JavaScript. Here's a comprehensive learning path to get started:
 
 ### Beginner Level:
